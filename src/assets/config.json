@@ -1,0 +1,13 @@
+{
+  "hotkeys": {
+    "right": [
+      "AppComponent.ToggleContainer"
+    ],
+    "ctrl+shift+s": [
+      "AppComponent.ToggleContainer"
+    ],
+    "ctrl+right": [
+      "AppComponent.ToggleContainer"
+    ]
+  }
+}

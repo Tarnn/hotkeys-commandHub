@@ -1,0 +1,5 @@
+<div *ngIf="showContainer" [ngStyle]="{'background': 'red', 'height': '250px', 'width': '250px', 'display': 'flex', 'justify-content': 'center', 'align-items': 'center'}">
+	<h1>Woo Div</h1>
+</div>
+
+<button #toggleBtn (click)="toggleContainer()">Toggle Container</button>
