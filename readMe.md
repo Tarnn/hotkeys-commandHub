@@ -8,4 +8,4 @@ A command service is used to orchestrate the event and component interaction usi
 </p>
 
 
-DEMO: https://stackblitz.com/edit/hotkey-hub?file=src%2Fapp%2Fservices%2Fcommand.service.ts
+DEMO: https://stackblitz.com/edit/hotkey-hub
